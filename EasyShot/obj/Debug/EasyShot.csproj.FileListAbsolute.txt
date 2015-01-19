@@ -1,0 +1,9 @@
+c:\users\abdo\documents\visual studio 2013\Projects\EasyShot\EasyShot\bin\Debug\EasyShot.exe.config
+C:\Users\Abdo\Documents\Visual Studio 2013\Projects\EasyShot\EasyShot\obj\Debug\EasyShot.csprojResolveAssemblyReference.cache
+C:\Users\Abdo\Documents\Visual Studio 2013\Projects\EasyShot\EasyShot\obj\Debug\EasyShot.Form1.resources
+C:\Users\Abdo\Documents\Visual Studio 2013\Projects\EasyShot\EasyShot\obj\Debug\EasyShot.Properties.Resources.resources
+C:\Users\Abdo\Documents\Visual Studio 2013\Projects\EasyShot\EasyShot\obj\Debug\EasyShot.csproj.GenerateResource.Cache
+C:\Users\Abdo\Documents\Visual Studio 2013\Projects\EasyShot\EasyShot\bin\Debug\EasyShot.exe
+C:\Users\Abdo\Documents\Visual Studio 2013\Projects\EasyShot\EasyShot\bin\Debug\EasyShot.pdb
+C:\Users\Abdo\Documents\Visual Studio 2013\Projects\EasyShot\EasyShot\obj\Debug\EasyShot.exe
+C:\Users\Abdo\Documents\Visual Studio 2013\Projects\EasyShot\EasyShot\obj\Debug\EasyShot.pdb
