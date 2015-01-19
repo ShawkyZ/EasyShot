@@ -1,7 +1,7 @@
 ## EasyShot
 Capture SreenShots and save them easily.
 
-### > [Download Installer](http://goo.gl/eeKwdq)
+### > [Download Installer](http://goo.gl/DQhLQV)
 
 ## How To Use:
 1- Choose where to save images.
