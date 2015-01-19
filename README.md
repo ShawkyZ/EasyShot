@@ -1,4 +1,4 @@
-## EasyShot
+## Easy Shot
 Capture SreenShots and save them easily.
 
 ### > [Download Installer](http://goo.gl/DQhLQV)
