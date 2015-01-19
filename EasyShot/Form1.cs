@@ -79,17 +79,21 @@ namespace EasyShot
         {
             if (label1.Text != "Choose Save Location:")
             {
-                this.Hide();
-                notifyIcon1.BalloonTipIcon = ToolTipIcon.Info;
-                notifyIcon1.BalloonTipText = "I'm Running Here";
-                notifyIcon1.BalloonTipTitle = "Hey!";
-                notifyIcon1.ShowBalloonTip(3000);
-                notifyIcon1.ContextMenuStrip = contextMenuStrip1;
-                _RegisKey.Keys = Keys.PrintScreen;
-                _RegisKey.ModKey = 0;
-                _RegisKey.WindowHandle = this.Handle;
-                _RegisKey.HotKey += new RegisterHotKeyClass.HotKeyPass(checkIfKeyPressed);
-                _RegisKey.StarHotKey();
+                try
+                {
+                    this.Hide();
+                    notifyIcon1.BalloonTipIcon = ToolTipIcon.Info;
+                    notifyIcon1.BalloonTipText = "I'm Running Here";
+                    notifyIcon1.BalloonTipTitle = "Hey!";
+                    notifyIcon1.ShowBalloonTip(3000);
+                    notifyIcon1.ContextMenuStrip = contextMenuStrip1;
+                    _RegisKey.Keys = Keys.PrintScreen;
+                    _RegisKey.ModKey = 0;
+                    _RegisKey.WindowHandle = this.Handle;
+                    _RegisKey.HotKey += new RegisterHotKeyClass.HotKeyPass(checkIfKeyPressed);
+                    _RegisKey.StarHotKey();
+                }
+                catch { }
             }
             else
             {
