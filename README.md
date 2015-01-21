@@ -3,7 +3,7 @@ Capture SreenShots and save them easily.
 
 ### > [Download Installer](http://goo.gl/DQhLQV)
 
-### > [Check the App on Softpedia](http://www.softpedia.com/get/Multimedia/Graphic/Graphic-Capture/)
+### > [Check the App on Softpedia](http://www.softpedia.com/get/Multimedia/Graphic/Graphic-Capture/Easy-Shot.shtml)
 
 ## How To Use:
 1- Choose where to save images.
