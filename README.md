@@ -1,7 +1,7 @@
 ## Easy Shot
 Capture SreenShots and save them easily.
 
-### > [Download Installer](javascript:alert(1))
+### > [Download Installer](http://goo.gl/DQhLQV)
 
 ### > [Check the App on Softpedia](http://www.softpedia.com/get/Multimedia/Graphic/Graphic-Capture/Easy-Shot.shtml)
 
